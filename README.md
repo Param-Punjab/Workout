@@ -113,9 +113,7 @@
 
 ---
 
-# **Additional Tips for Maximizing Shoulder Hy
-
-pertrophy:**
+# **Additional Tips for Maximizing Shoulder Hypertrophy:**
 
 1. **Form Over Weight:** Prioritize proper form to prevent injuries and ensure muscle engagement.
 2. **Progressive Overload:** Gradually increase weights or reps as strength improves to promote muscle growth.
