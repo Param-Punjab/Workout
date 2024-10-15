@@ -3,6 +3,7 @@
 ## **Day 1: Monday - Shoulders + Abs**
 
 ### **Shoulder Workout:**
+
 | **Exercise**                          | **Sets** | **Reps** | **Notes**                                                                                   |
 |---------------------------------------|----------|----------|---------------------------------------------------------------------------------------------|
 | **Dumbbell Shoulder Press**           | 4        | 8-12     | Sit or stand, pressing dumbbells overhead. Ensure elbows are slightly in front of the body. |
@@ -13,6 +14,7 @@
 | **Dumbbell Shrugs**                   | 3        | 12-15    | Lift shoulders towards ears, squeeze at the top.                                            |
 
 ### **Abs Workout:**
+
 | **Exercise**                          | **Sets** | **Reps** | **Notes**                                                                                   |
 |---------------------------------------|----------|----------|---------------------------------------------------------------------------------------------|
 | **Plank Hold**                        | 3        | 30-60s   | Keep body in a straight line from head to heels.                                            |
@@ -24,6 +26,7 @@
 ## **Day 2: Tuesday - Chest + Triceps**
 
 ### **Chest Workout:**
+
 | **Exercise**                          | **Sets** | **Reps** | **Notes**                                                                                   |
 |---------------------------------------|----------|----------|---------------------------------------------------------------------------------------------|
 | **Dumbbell Floor Press**              | 4        | 8-12     | Lie on your back, press dumbbells from the floor. Focus on full range of motion.            |
@@ -49,6 +52,7 @@
 | **Dumbbell Deadlift**                 | 4        | 8-12     | Keep dumbbells close to your legs, hinge at the hips while maintaining a straight back.     |
 
 ### **Biceps Workout:**
+
 | **Exercise**                          | **Sets** | **Reps** | **Notes**                                                                                   |
 |---------------------------------------|----------|----------|---------------------------------------------------------------------------------------------|
 | **Dumbbell Hammer Curls**             | 4        | 10-15    | Keep palms facing each other throughout the movement.                                       |
@@ -97,6 +101,7 @@
 | **Dumbbell Calf Raises**              | 4        | 15-20    | Perform standing calf raises while holding dumbbells.                                       |
 
 ### **Abs Workout:**
+
 | **Exercise**                          | **Sets** | **Reps** | **Notes**                                                                                   |
 |---------------------------------------|----------|----------|---------------------------------------------------------------------------------------------|
 | **Mountain Climbers**                 | 3        | 30-45s   | Drive knees towards chest quickly while maintaining a plank position.                       |
