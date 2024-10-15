@@ -34,6 +34,7 @@
 | **Push-Ups (Weighted if possible)**   | 3        | Failure  | Place a dumbbell on your back for added resistance, maintain proper form.                   |
 
 ### **Triceps Workout:**
+
 | **Exercise**                          | **Sets** | **Reps** | **Notes**                                                                                   |
 |---------------------------------------|----------|----------|---------------------------------------------------------------------------------------------|
 | **Close-Grip Dumbbell Press**         | 4        | 10-12    | Keep elbows close to your body, press dumbbells from your chest.                            |
