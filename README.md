@@ -45,6 +45,7 @@
 ## **Day 3: Wednesday - Back + Biceps**
 
 ### **Back Workout:**
+
 | **Exercise**                          | **Sets** | **Reps** | **Notes**                                                                                   |
 |---------------------------------------|----------|----------|---------------------------------------------------------------------------------------------|
 | **Dumbbell Bent-Over Rows**           | 4        | 8-12     | Hinge at the hips, pull dumbbells towards your hip. Squeeze shoulder blades together.       |
@@ -72,6 +73,7 @@
 ## **Day 5: Friday - Shoulders (Focus) + Abs**
 
 ### **Shoulder Workout (Focused):**
+
 | **Exercise**                          | **Sets** | **Reps** | **Notes**                                                                                   |
 |---------------------------------------|----------|----------|---------------------------------------------------------------------------------------------|
 | **Dumbbell Lateral Raises (Hold at Top)** | 4        | 12-15    | Hold at the top for 2 seconds for increased tension on the deltoids.                    |
@@ -81,6 +83,7 @@
 | **Dumbbell Upright Row**              | 3        | 10-12    | Pull dumbbells up high, keeping elbows above wrists.                                        |
 
 ### **Abs Workout:**
+
 | **Exercise**                          | **Sets** | **Reps** | **Notes**                                                                                   |
 |---------------------------------------|----------|----------|---------------------------------------------------------------------------------------------|
 | **Bicycle Crunches**                  | 3        | 20 per side | Engage core, alternate bringing elbow to opposite knee.                                  |
@@ -92,6 +95,7 @@
 ## **Day 6: Saturday - Legs + Abs**
 
 ### **Leg Workout:**
+
 | **Exercise**                          | **Sets** | **Reps** | **Notes**                                                                                   |
 |---------------------------------------|----------|----------|---------------------------------------------------------------------------------------------|
 | **Goblet Squat**                      | 4        | 10-15    | Hold a dumbbell at chest height, squat deeply with proper form.                             |
