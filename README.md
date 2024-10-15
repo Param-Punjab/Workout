@@ -1,5 +1,3 @@
----
-
 # **Weekly Bro-Split Workout Plan (Dumbbells Only)**
 
 ## **Day 1: Monday - Shoulders + Abs**
